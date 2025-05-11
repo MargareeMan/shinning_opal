@@ -1,2 +1,2 @@
 # shinning_opal
-Test for Shinny App development
+First attempt at Shinny app development.
